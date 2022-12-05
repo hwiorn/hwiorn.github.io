@@ -1,0 +1,3 @@
+[submodule "themes/thirdhemisphere"]
+	path = themes/thirdhemisphere
+	url = https://github.com/pprevos/hugo-thirdhemisphere
