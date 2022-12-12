@@ -2,3 +2,4 @@ baseURL = 'https://hwiorn.github.io/'
 languageCode = 'ko-KR'
 title = "Tim Lee's blog"
 theme = 'thirdhemisphere'
+publishDir = 'docs'
