@@ -1,5 +1,5 @@
 #+title: 나의 지식관리 도구
-#+startup: num
+# #+startup: num
 #+hugo_draft: true
 #+hugo_auto_set_lastmod: t
 #+hugo_expirydate: 2999-01-01
@@ -87,10 +87,7 @@ JabRef는 기능적으로 떨어지나 bibtex과 biblatex 포맷을 바로 수�
   - PC: Emacs
   - iOS: 안함
 
-* Footnotes
-:PROPERTIES:
-:UNNUMBERED:
-:END:
+* Footnotes :nonum:
 
 [fn:9] 현재는 모바일 버전이 나왔지만, zotero 클라우드를 통해 PDF를 관리하지
 않는다면 다른 기기에서 함께 사용하기가 번거롭다.
