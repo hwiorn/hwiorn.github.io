@@ -1,5 +1,5 @@
 #+title: 나의 지식관리 여정
-#+draft: true
+#+hugo_draft: true
 #+lastmod:
 #+categories[]: PKMS
 #+tags[]: PKMS
