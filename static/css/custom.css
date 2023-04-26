@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'MaruBuri-Regular';
+    src: url('/fonts/MaruBuri-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Virgil";
+    src: url("https://excalidraw.com/Virgil.woff2");
+}
+
+@font-face {
+    font-family: "Cascadia";
+    src: url("https://excalidraw.com/Cascadia.woff2");
+}
+
+h1, h2, h3, h4 { font-family: 'MaruBuri-Regular', Arial, sans-serif; }
+p, ul li, div, span, i, figcaption {  
+  font-family: 'MaruBuri-Regular', Arial, sans;  
+}
