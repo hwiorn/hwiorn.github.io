@@ -12,14 +12,16 @@
 현재 주력으로 사용하는 툴은 Emacs이며, 주 OS는 Linux 환경[fn:1]이고, 모바일은
 아이폰[fn:2]을 사용한다.
 
-- 캡쳐
-  - 아날로그: 포켓수첩[fn:3]
-  - PC: Emacs
-  - Web: hypothes.is, reclipped
-- 노트 작성
+** 1. 캡쳐
+- 아날로그: 포켓수첩[fn:3]
+- PC: Emacs
+- Web: hypothes.is, reclipped
+** 2. 노트 작성
   - PC: Emacs
   - iOS: 안함
-- 노트 정리
+** 3. 노트 정리
+  - PC: Emacs
+  - iOS: 안함
 
 * Footnotes
 
