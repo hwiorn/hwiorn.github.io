@@ -15,5 +15,5 @@ yarn-error.log*
 
 # HUGO
 docs/
-content/posts/
+# content/posts
 resources/

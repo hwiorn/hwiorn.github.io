@@ -1,11 +1,15 @@
-#+title: 나의 지식관리 여정
-#+hugo_draft: true
-#+lastmod:
-#+categories[]: PKMS
-#+tags[]: PKMS
-#+seo: false
++++
+title = "나의 지식관리 여정"
+author = ["hwiorn"]
+expiryDate = 2999-01-01
+lastmod = 2023-04-26T14:17:39+09:00
+tags = ["pkms", "emacs"]
+categories = ["pkms"]
+draft = true
++++
 
-* 나의 지식관리 여정
+## 나의 지식관리 여정 {#나의-지식관리-여정}
+
 지식관리를 사용한 것은 아마 2008년도 시점인 것으로 기억한다. 그때만 해도
 디지털보단 작은 수첩을 갖고다니면서 기록하던 시점이었는데, GTD와 Emacs org 로
 정리하는 것을 알게 되어, 디지털 기록을 한참 생각했었다. 하지만, GTD는 디지털
