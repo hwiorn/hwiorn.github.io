@@ -1,35 +1,27 @@
-/* Lucid Manager Hugo template */
-
-/* Basic layout  */
-.max-800px {
-    max-width: 960px;
-    margin:auto;
+@font-face {
+    font-family: 'MaruBuri-Regular';
+    src: url('/fonts/MaruBuri-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
-/* Transparent text background in hero */
-.transparent-bg {
-    background: rgba(64, 64, 64, 0.5);
+@font-face {
+    font-family: "Virgil";
+    src: url("https://excalidraw.com/Virgil.woff2");
 }
 
-/* Social sharing buttons */
-ul.share-buttons{
-    list-style: none;
+@font-face {
+    font-family: "Cascadia";
+    src: url("https://excalidraw.com/Cascadia.woff2");
 }
 
-ul.share-buttons li{
-    display: inline;
+h1, h2, h3, h4 { font-family: 'MaruBuri-Regular', Arial, sans; }
+p, ul li, div, span, i, figcaption {  
+  font-family: 'MaruBuri-Regular', Arial, sans;  
 }
 
-/* Verbatim code */
-code {
-    color: #666;
-}
-
-/* Headings */
-h2 {
-    padding-top: 1em;
-}
-
-content.h3 {
-    margin-top: 1em;
-}
+//code font NaverD2 Coding
+/* code {
+   font-family: 'Source Code Pro', monospace;
+   span { font-family: 'Source Code Pro', monospace; }
+   } */

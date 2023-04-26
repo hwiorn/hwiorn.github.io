@@ -2,7 +2,7 @@
 title = "나의 지식관리 도구"
 author = ["hwiorn"]
 expiryDate = 2999-01-01
-lastmod = 2023-04-26T15:14:25+09:00
+lastmod = 2023-04-26T23:13:17+09:00
 tags = ["pkms"]
 categories = ["pkms"]
 draft = true
@@ -34,6 +34,8 @@ draft = true
 ## <span class="section-num">1</span> 사용 도구 {#사용-도구}
 
 나는 주로 도구의 경우 주력으로 사용하면, 대체품을 함께 사용하는 경향이 있다.
+
+{{< figure src="/ox-hugo/f6748e1b-5550-4257-8a92-afc69f3cb925.excalidraw.svg" >}}
 
 
 ### <span class="section-num">1.1</span> Emacs {#emacs}
@@ -128,9 +130,9 @@ JabRef는 기능적으로 떨어지나 bibtex과 biblatex 포맷을 바로 수�
 -   PC: Emacs
 -   iOS: 안함
 
-[^fn:1]: Linux 환경을 주력으로 쓰는 이유는 입맛대로 쓰고 싶어서지만, iOS와 Windows
-    프로그램 개발을 했었기 때문에, 나름 다른 OS도 쓸수 있다. 아마 회사에서 쓴다면
-    맥을 사지 않을까 싶다.
+[^fn:1]: Android, iOS, Windows 프로그램 개발을 했었기 때문에, 맥과 윈도우 역시
+    무리없이 사용할수 있지만, 아무래도 오픈소스인 Linux 배포판 만큼 어떤 이슈를
+    수정하고 가다듬는다는 느낌을 많이 못받는 것 같다.
 [^fn:2]: 주로 Emacs와 Linux를 쓰는 사용자는 안드로이드 기반을 사용하기 때문에,
     iOS의 경우 관련 자료나 워크플로에 대한 글들이 많이 존재하지는 않는다.
 [^fn:3]: BetterBibTeX 플러그인을 사용하면 bibtex 파일로 뽑아내어 사용할수 있지만,
