@@ -88,6 +88,9 @@ JabRef는 기능적으로 떨어지나 bibtex과 biblatex 포맷을 바로 수�
   - iOS: 안함
 
 * Footnotes
+:PROPERTIES:
+:UNNUMBERED:
+:END:
 
 [fn:9] 현재는 모바일 버전이 나왔지만, zotero 클라우드를 통해 PDF를 관리하지
 않는다면 다른 기기에서 함께 사용하기가 번거롭다.
