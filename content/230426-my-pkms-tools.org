@@ -1,0 +1,11 @@
+#+title: 230426 My Pkms Tools
+
+2023년 4월 26일 기준 PKMS에 사용하는 툴 목록이다.
+
+- 캡쳐:
+  - PC: Emacs
+  - Web: hypothes.is
+- 노트작성:
+  - PC: Emacs
+  - iOS: 안함
+- 노트
