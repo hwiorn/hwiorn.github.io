@@ -6,9 +6,25 @@ title = "Tim Lee's blog"
 theme = 'fuji'
 publishDir = 'docs'
 custom_css = ["css/style.css"]
+
+[params]
+author = "Tim Lee"
+subTitle = "Organizing mind"
+showWordCounter = true
+showReadTime = true
+hideNoTagList = false
+# License in the footer
+showLicenseInFooter = false
 showLicense = true
 showToc = true
 
-[params]
-    utterancesRepo = "hwiorn/hwiorn.github.io"
-    utterancesIssueTerm = "pathname"
+# Copyright
+copyrightStartYear = "2023"
+
+# Open Graph & Twitter Card variables
+# You can also set description and images in post front matter individually
+description = "A minimal blog"
+# og = "/img/og.png"                                          # This will use the image called og.png in static/img folder
+
+# utterancesRepo = "*/*"
+# utterancesIssueTerm = "pathname"
