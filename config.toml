@@ -2,6 +2,14 @@ baseURL= 'https://hwiorn.github.io/'
 languageCode = 'ko-KR'
 title = "Tim Lee's blog"
 #theme = 'thirdhemisphere'
-theme = 'hugo-book'
+#theme = 'hugo-book'
+theme = 'fuji'
 publishDir = 'docs'
-custom_css = ["css/custom.css"]
+custom_css = ["css/style.css"]
+showLicense = true
+showToc = true
+showComments = true
+
+[params]
+utterancesRepo = "hwiorn/hwiorn.github.io"
+utterancesIssueTerm = "pathname"
