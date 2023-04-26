@@ -1,17 +1,16 @@
 #+title: 나의 지식관리 도구
-# #+startup: num
 #+hugo_draft: true
 #+hugo_auto_set_lastmod: t
 #+hugo_expirydate: 2999-01-01
 #+hugo_tags: pkms
 #+hugo_categories: pkms
 #+hugo_weight: auto
-#+hugo_autonumbering: t
+#+options: toc:t num:t
 
 2023년 4월 26일 기준 PKMS에 사용하는 툴 목록이다.
 
 현재 주력으로 사용하는 툴은 Emacs이며, 주 OS는 Linux 환경[fn:1]이고, 모바일은
-아이폰[fn:2]을 사용한다.
+아이폰[fn:2]을, 이북리더는 오닉스포크3(안드로이드)를 사용한다.
 
 
 * 사용 도구
