@@ -1,5 +1,9 @@
 #+title: 나의 지식관리 여정
 #+draft: true
+#+lastmod:
+#+categories[]: PKMS
+#+tags[]: PKMS
+#+seo: false
 
 지식관리를 사용한 것은 아마 2008년도 시점인 것으로 기억한다. 그때만 해도
 디지털보단 작은 수첩을 갖고다니면서 기록하던 시점이었는데, GTD와 Emacs org 로
