@@ -13,9 +13,13 @@
 아이폰[fn:2]을 사용한다.
 
 ** 1. 캡쳐
+- 일반 임시 메모: Kate(메모장)
 - 아날로그: 포켓수첩[fn:3]
-- PC: Emacs
-- Web: hypothes.is, reclipped
+- 메신져: 텔레그램
+- PC: org-roam 캡쳐(Emacs)
+- Web 하이라이팅/메모: hypothes.is
+  - 하이라이팅과 메모를 동시에 수행할 수 있음
+- Youtube 메모: reclipped, org-media-note(Emacs)
 ** 2. 노트 작성
   - PC: Emacs
   - iOS: 안함
