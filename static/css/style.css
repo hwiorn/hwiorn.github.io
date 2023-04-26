@@ -4,28 +4,25 @@
     font-weight: normal;
     font-style: normal;
 }
-/*
-   @font-face {
-   font-family: "Virgil";
-   src: url("https://excalidraw.com/Virgil.woff2");
-   }
 
-   @font-face {
-   font-family: "Cascadia";
-   src: url("https://excalidraw.com/Cascadia.woff2");
-   }
- */
+
+@font-face {
+    font-family: 'D2Coding';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/D2Coding.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 h1, h2, h3, h4 { font-family: 'MaruBuri-Regular', Arial, sans; }
 p, ul li, div, span, i, figcaption {  
   font-family: 'MaruBuri-Regular', Arial, sans;  
 }
 
-//code font NaverD2 Coding
-/* code {
-   font-family: 'Source Code Pro', monospace;
-   span { font-family: 'Source Code Pro', monospace; }
-   } */
-
+code {
+    font-family: 'D2Coding', monospace;
+    span { font-family: 'D2Coding', monospace; }
+}
 
 
 /* HTML 본문 폰트사이즈가 16인 경우 1/16의 비율(-0.062em)로서 본문 -1px의 자간 간격을 모든 개체에 동일한 비율로 적용할 수 있다 */
