@@ -6,6 +6,7 @@
 #+hugo_tags: pkms
 #+hugo_categories: pkms
 #+hugo_weight: auto
+#+hugo_autonumbering: t
 
 2023년 4월 26일 기준 PKMS에 사용하는 툴 목록이다.
 
