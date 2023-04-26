@@ -1,9 +1,10 @@
 #+title: 나의 지식관리 여정
 #+hugo_draft: true
-#+lastmod:
-#+categories[]: PKMS
-#+tags[]: PKMS
-#+seo: false
+#+hugo_auto_set_lastmod: t
+#+hugo_expirydate: 2999-01-01
+#+hugo_tags: pkms emacs
+#+hugo_categories: pkms
+#+hugo_weight: auto
 
 * 나의 지식관리 여정
 지식관리를 사용한 것은 아마 2008년도 시점인 것으로 기억한다. 그때만 해도
