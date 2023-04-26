@@ -7,6 +7,7 @@ theme = 'fuji'
 publishDir = 'docs'
 custom_css = ["css/style.css"]
 
+# 참고 https://github.com/dsrkafuu/hugo-theme-fuji/blob/master/exampleSite/config.toml
 [params]
 author = "Tim Lee"
 subTitle = "Organizing mind"
@@ -25,6 +26,47 @@ copyrightStartYear = "2023"
 # You can also set description and images in post front matter individually
 description = "A minimal blog"
 # og = "/img/og.png"                                          # This will use the image called og.png in static/img folder
+mainSections = ["post"]
+utterancesRepo = "hwiorn/hwiorn.github.io"
+utterancesIssueTerm = "pathname"
 
-# utterancesRepo = "*/*"
-# utterancesIssueTerm = "pathname"
+# [menu]
+# [[menu.nav]]
+# name = "Home"
+# url = "/"
+# weight = 1
+# [[menu.nav]]
+# name = "Archives"
+# url = "/archives/"
+# weight = 2
+# [[menu.nav]]
+# name = "About"
+# url = "/about/"
+# weight = 3
+# [[menu.nav]]
+# name = "Search"
+# url = "/search/"
+# weight = 4
+# [[menu.nav]]
+# name = "RSS"
+# url = "/index.xml"
+# weight = 5
+
+# [[menu.link]]
+# name = "GitHub"
+# url = "https://github.com/dsrkafuu"
+# weight = 1
+# [[menu.link]]
+# name = "Twitter"
+# url = "https://twitter.com/dsrkafuu"
+# weight = 2
+# [[menu.link]]
+# name = "bilibili"
+# url = "https://space.bilibili.com/19767474"
+# weight = 3
+
+# [build]
+# noJSConfigInAssets = true
+
+# [security]
+# enableInlineShortcodes = true
