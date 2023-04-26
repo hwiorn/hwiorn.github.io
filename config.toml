@@ -8,7 +8,6 @@ publishDir = 'docs'
 custom_css = ["css/style.css"]
 showLicense = true
 showToc = true
-showComments = true
 
 [params]
     utterancesRepo = "hwiorn/hwiorn.github.io"
