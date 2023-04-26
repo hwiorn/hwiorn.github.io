@@ -1,4 +1,7 @@
 #+title: All Posts
+#+HUGO_SECTION: en/post
+#+HUGO_BASE_DIR: ~/hwiorn-blog
+#+HUGO_WEIGHT: auto
 
 
 * PKMS
