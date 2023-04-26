@@ -18,6 +18,7 @@ hideNoTagList = false
 showLicenseInFooter = false
 showLicense = true
 showToc = true
+showComments = true
 
 # Copyright
 copyrightStartYear = "2023"
