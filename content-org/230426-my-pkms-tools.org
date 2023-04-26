@@ -1,0 +1,35 @@
+#+title: 나의 지식관리 도구
+#+hugo_draft: true
+#+hugo_auto_set_lastmod: t
+#+hugo_expirydate: 2999-01-01
+#+hugo_tags: pkms
+#+hugo_categories: pkms
+#+hugo_weight: auto
+
+* 나의 지식관리 도구
+2023년 4월 26일 기준 PKMS에 사용하는 툴 목록이다.
+
+현재 주력으로 사용하는 툴은 Emacs이며, 주 OS는 Linux 환경[fn:1]이고, 모바일은
+아이폰[fn:2]을 사용한다.
+
+- 캡쳐
+  - 아날로그: 포켓수첩[fn:3]
+  - PC: Emacs
+  - Web: hypothes.is, reclipped
+- 노트 작성
+  - PC: Emacs
+  - iOS: 안함
+- 노트 정리
+
+* Footnotes
+
+[fn:2] 주로 Emacs와 Linux를 쓰는 사용자는 안드로이드 기반을 사용하기 때문에,
+iOS의 경우 관련 자료나 워크플로에 대한 글들이 많이 존재하지는 않는다.
+
+[fn:1] Linux 환경을 주력으로 쓰는 이유는 입맛대로 쓰고 싶어서지만, iOS와 Windows
+프로그램 개발을 했었기 때문에, 나름 다른 OS도 쓸수 있다. 아마 회사에서 쓴다면
+맥을 사지 않을까 싶다.
+
+[fn:3] 포켓 수첩은 양지사 PD90을 썼지만, 1달이상 쓰면 겉표지가 말그대로
+쪼개진다. 그래서 지금은 미도리 패스포트 형태의 가죽 수첩을 사용한다. 속지는
+한동안 미도리 호환을 쓰다가 지금은 다이소의 500원 수첩을 끼워서 사용하고 있다.
