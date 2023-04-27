@@ -2,7 +2,7 @@
 title = "나의 지식관리 도구"
 author = ["hwiorn"]
 expiryDate = 2999-01-01
-lastmod = 2023-04-26T23:13:17+09:00
+lastmod = 2023-04-27T11:19:48+09:00
 tags = ["pkms"]
 categories = ["pkms"]
 draft = true
