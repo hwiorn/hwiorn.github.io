@@ -16,7 +16,7 @@
 * 사용 도구
 나는 주로 도구의 경우 주력으로 사용하면, 대체품을 함께 사용하는 경향이 있다.
 
-[[excalidraw:/home/gglee/org/excalidraw/f6748e1b-5550-4257-8a92-afc69f3cb925.excalidraw.svg]]
+[[excalidraw:~/org/excalidraw/f6748e1b-5550-4257-8a92-afc69f3cb925.excalidraw.svg]]
 
 
 ** Emacs
